@@ -7,7 +7,7 @@ Minimal Rainmeter countdown clock and progress bar (days, weeks, hours, minutes,
 ## Features
 - Countdown in days / weeks / hours / minutes / seconds
 - Progress bar + percentage
-- Optional minimalist stopwatch skin
+- Minimalist stopwatch
 
 ## Requirements
 - Windows
