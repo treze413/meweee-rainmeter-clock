@@ -2,7 +2,7 @@
 
 Minimal Rainmeter clock + countdown skin designed as a daily reminder of time left towards a long-term outcome to be reached + the moto "if you keep living the way you are, what will you life look like in 20 years time?".
 
-![Preview](preview.png)
+<img width="519" height="807" alt="Preview" src="https://github.com/user-attachments/assets/d458a264-9d2a-4944-a842-721b79f5bc59" />
 
 ## Features
 - Countdown in days / weeks / hours / minutes / seconds
